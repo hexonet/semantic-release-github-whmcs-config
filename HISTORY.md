@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.0.0...v1.0.1) (2019-09-17)
+
+
+### Bug Fixes
+
+* **npm:** add missing dependency ([1321c88](https://github.com/hexonet/semantic-release-github-whmcs-config/commit/1321c88))
+
 # 1.0.0 (2019-09-17)
 
 
