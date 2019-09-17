@@ -16,6 +16,7 @@ This [shareable configuration](https://github.com/hexonet/semantic-release-githu
 - [`@semantic-release/release-notes-generator`](https://github.com/semantic-release/release-notes-generator)
 - [`@semantic-release/github`](https://github.com/semantic-release/github)
 - [`@semantic-release/git`](https://github.com/semantic-release/git)
+- [`@semantic-release/exec`](https://github.com/semantic-release/exec)
 - [`@hexonet/semantic-release-whmcs`](https://github.com/hexonet/semantic-release-whmcs)
 
 ## Summary
