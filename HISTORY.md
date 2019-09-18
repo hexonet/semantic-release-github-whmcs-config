@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.0.1...v1.1.0) (2019-09-18)
+
+
+### Features
+
+* **shared cfg:** rebased on @hexonet/semantic-release-github-whmcsbase-config ([8e05888](https://github.com/hexonet/semantic-release-github-whmcs-config/commit/8e05888))
+
 ## [1.0.1](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.0.0...v1.0.1) (2019-09-17)
 
 
