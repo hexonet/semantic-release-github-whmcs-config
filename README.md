@@ -10,23 +10,14 @@
 
 ## Plugins
 
-This [shareable configuration](https://github.com/hexonet/semantic-release-github-whmcs-config/blob/master/.sharedreleaserc.json) uses the following plugins:
+This [shareable configuration](https://github.com/hexonet/semantic-release-github-whmcs-config/blob/master/.sharedreleaserc.js) interhits from a basic [shareable configuration](https://github.com/hexonet/semantic-release-github-whmcsbase-config/blob/master/.sharedreleaserc.json) and uses the following plugins:
 
-- [`@semantic-release/commit-analyzer`](https://github.com/semantic-release/commit-analyzer)
-- [`@semantic-release/release-notes-generator`](https://github.com/semantic-release/release-notes-generator)
-- [`@semantic-release/github`](https://github.com/semantic-release/github)
-- [`@semantic-release/git`](https://github.com/semantic-release/git)
-- [`@semantic-release/exec`](https://github.com/semantic-release/exec)
-- [`@semantic-release/changelog`](https://github.com/semantic-release/changelog)
 - [`@hexonet/semantic-release-whmcs`](https://github.com/hexonet/semantic-release-whmcs)
 
 ## Summary
 
-- Provides an informative [git](https://github.com/semantic-release/git) commit message for the `release commit` that does not trigger continuous integration and conforms to the [conventional commits specification](https://www.conventionalcommits.org/) (e.g., "chore(release): 1.2.3 [skip ci]\n\nnotes").
-- Creates or updates a [changelog](https://github.com/semantic-release/changelog) file that gets included in the release commit.
-- Updates version numbers in several files using the repository specific script `updateVersion.sh` that get included  in the release commit.
-- Creates a zip using `make allarchives` that gets included in the release commit to make the latest version downloadable via release-independent URL.
-- Creates a zip and tar.gz archive using `make allarchives` that get uploaded with each [GitHub release](https://github.com/semantic-release/github) to have release-dependent downloads.
+On top of the summary of [@hexonet/semantic-release-github-whmcsbase-config](https://github.com/hexonet/semantic-release-github-whmcsbase-config#summary), this module also
+
 - Publishs a new product/module version to the [WHMCS Marketplace](https://marketplace.whmcs.com) including notes.
 
 ## Install
