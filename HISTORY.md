@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.1.0...v1.2.0) (2019-09-18)
+
+
+### Features
+
+* **release process:** use @hexonet/semantic-release-github-npm-config ([1756c82](https://github.com/hexonet/semantic-release-github-whmcs-config/commit/1756c82))
+
 # [1.1.0](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.0.1...v1.1.0) (2019-09-18)
 
 
