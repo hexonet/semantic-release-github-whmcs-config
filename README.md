@@ -25,8 +25,8 @@ This [shareable configuration](https://github.com/hexonet/semantic-release-githu
 - Provides an informative [git](https://github.com/semantic-release/git) commit message for the `release commit` that does not trigger continuous integration and conforms to the [conventional commits specification](https://www.conventionalcommits.org/) (e.g., "chore(release): 1.2.3 [skip ci]\n\nnotes").
 - Creates or updates a [changelog](https://github.com/semantic-release/changelog) file that gets included in the release commit.
 - Updates version numbers in several files using the repository specific script `updateVersion.sh` that get included  in the release commit.
-- Creates a zip using `make allarchives` that gets included in the release commit
-- Creates a zip and tar.gz archive using `make allarchives` that get uploaded with each [GitHub release](https://github.com/semantic-release/github).
+- Creates a zip using `make allarchives` that gets included in the release commit to make the latest version downloadable via release-independent URL.
+- Creates a zip and tar.gz archive using `make allarchives` that get uploaded with each [GitHub release](https://github.com/semantic-release/github) to have release-dependent downloads.
 - Publishs a new product/module version to the [WHMCS Marketplace](https://marketplace.whmcs.com) including notes.
 
 ## Install
