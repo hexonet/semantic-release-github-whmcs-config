@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.2.0...v1.3.0) (2020-06-04)
+
+
+### Features
+
+* **dep-bump:** upgrade dependencies ([cb4a0c4](https://github.com/hexonet/semantic-release-github-whmcs-config/commit/cb4a0c449efc61985cf7b416dab16157002b0bdb))
+
 # [1.2.0](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.1.0...v1.2.0) (2019-09-18)
 
 
