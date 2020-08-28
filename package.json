@@ -30,7 +30,7 @@
     },
     "homepage": "https://github.com/hexonet/semantic-release-github-whmcs-config#readme",
     "dependencies": {
-        "@hexonet/semantic-release-github-whmcsbase-config": "^1.2.0",
+        "@hexonet/semantic-release-github-whmcsbase-config": "^1.3.0",
         "@hexonet/semantic-release-whmcs": "^1.0.9"
     },
     "peerDependencies": {
