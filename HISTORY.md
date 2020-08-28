@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.3.0...v1.3.1) (2020-08-28)
+
+
+### Bug Fixes
+
+* **dep-bump:** bump dependency whmcsbase-config ([1275c41](https://github.com/hexonet/semantic-release-github-whmcs-config/commit/1275c413667a5e8eef99dea555a739fe8fc75c76))
+
 # [1.3.0](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.2.0...v1.3.0) (2020-06-04)
 
 
