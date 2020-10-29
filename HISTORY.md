@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.3.1...v1.3.2) (2020-10-29)
+
+
+### Bug Fixes
+
+* **npm/travis:** npm dep-bump and switch travis to focal fossa ([4aed995](https://github.com/hexonet/semantic-release-github-whmcs-config/commit/4aed9953bea6411502d329f40680ba82fd7fe8d2))
+
 ## [1.3.1](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.3.0...v1.3.1) (2020-08-28)
 
 
