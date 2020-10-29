@@ -1,17 +1,17 @@
 language: node_js
-dist: bionic
+dist: focal
 notifications:
   email:
     recipients:
-    - middleware@hexonet.net
+      - middleware@hexonet.net
     on_success: never
     on_failure: always
 node_js:
-  - 'lts/*'
+  - "lts/*"
 before_install:
-- npm prune
+  - npm prune
 install:
-- travis_retry npm i
+  - travis_retry npm i
 script:
-- npm run lint
-- npx semantic-release
+  - npm run lint
+  - npx semantic-release
