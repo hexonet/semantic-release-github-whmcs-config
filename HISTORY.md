@@ -1,3 +1,10 @@
+## [1.3.3](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.3.2...v1.3.3) (2020-10-29)
+
+
+### Bug Fixes
+
+* **npm:** fixed npm version under engines ([6655690](https://github.com/hexonet/semantic-release-github-whmcs-config/commit/6655690c476e51ddb5dc8ba4b24d1fbb072480aa))
+
 ## [1.3.2](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.3.1...v1.3.2) (2020-10-29)
 
 
