@@ -8,7 +8,7 @@
         "access": "public"
     },
     "engines": {
-        "npm": ">=6.18.4"
+        "npm": ">=6.14.8"
     },
     "scripts": {
         "lint": "eslint . --fix --config=./.eslintrc.js --ext .js,.md,.json"
