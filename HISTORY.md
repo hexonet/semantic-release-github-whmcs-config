@@ -1,3 +1,10 @@
+## [1.3.5](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.3.4...v1.3.5) (2021-01-19)
+
+
+### Bug Fixes
+
+* **github actions:** migrate from Travis CI ([5c0dd51](https://github.com/hexonet/semantic-release-github-whmcs-config/commit/5c0dd5120971e176eeaa8c49cd7c90f6fbb251c3))
+
 ## [1.3.4](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.3.3...v1.3.4) (2021-01-13)
 
 
