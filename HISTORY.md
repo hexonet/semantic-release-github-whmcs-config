@@ -1,3 +1,10 @@
+## [1.3.6](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.3.5...v1.3.6) (2021-01-19)
+
+
+### Bug Fixes
+
+* **dep-bump:** bump semantic-relase-whmcs v2.0.2 ([27b65c0](https://github.com/hexonet/semantic-release-github-whmcs-config/commit/27b65c03551fd577f4d0e44c69d78f6105882e6f))
+
 ## [1.3.5](https://github.com/hexonet/semantic-release-github-whmcs-config/compare/v1.3.4...v1.3.5) (2021-01-19)
 
 
